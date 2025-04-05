@@ -26,4 +26,4 @@ if answer == 'C':
     output = (temp - 32)/1.8
     
 
-print(f"\nYour answer is {output} degree.")
+print(f"\nYour answer is {output} degree.\n")
